@@ -8,6 +8,6 @@
   "dependencies": {
     "ejs": "^2.4.1",
     "express": "~3.2.4",
-    "request": "^2.72.0",
+    "request": "^2.72.0"
   }
 }
